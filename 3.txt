@@ -1,4 +1,8 @@
 knknknm
 
 
+<<<<<<< HEAD
 
+=======
+vnkvnodmv
+>>>>>>> 6c19f3766e8e0fb9181d81bbb590d55255a8b84a
